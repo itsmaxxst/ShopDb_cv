@@ -1,6 +1,6 @@
 # ShopDb_cv
 
-Qua ci sono tutte le query fatte per creare questo db
+Qua ci sono tutte le query fatte per creare questo db (guardare in raw)
 
 CREATE DATABASE shop_cv;
 
